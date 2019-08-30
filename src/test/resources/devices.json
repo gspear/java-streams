@@ -1,0 +1,210 @@
+[
+  {
+    "sourceId": "c823bac5-941d-4680-8806-41e37b13caa1",
+    "serialNumber": "1c48a329-e1f0-4c98-bf93-2892796fe627",
+    "deviceType": "DVRVirtualRecorder",
+    "serviceAccountUri": "4c2e564f-6fe6-4524-bdd5-3caad00dad80",
+    "status": "Delete",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "d4ee8ac6-3431-4756-8694-25e923c1d8d1",
+    "serialNumber": "e29359c6-144d-47ec-b085-4f35e9a17be6",
+    "deviceType": "IPSTB",
+    "serviceAccountUri": "4b445ed8-ed18-4e2d-a8c8-9897ace03c8f",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "0c1c916e-a483-4f76-8233-e224c29fbd0e",
+    "serialNumber": "3a878834-2dcf-420a-a7e0-43f68b7fbca9",
+    "deviceType": "VoIpTn",
+    "serviceAccountUri": "1312a5bb-ba0c-4fbb-914e-d28ae95bb03d",
+    "status": "Active",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "c2fd5a24-c608-4757-9c7e-cf7867783f2f",
+    "serialNumber": "efb41be7-acd7-4009-bd59-74c6bc7330f6",
+    "deviceType": "IPCOAM",
+    "serviceAccountUri": "2e01dbf3-bdc3-4fe5-a500-a70663998400",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "f58eb265-971c-467e-a46b-fe55becb8c6b",
+    "serialNumber": "d71fd7c3-364c-40da-8bd4-312978cca5b5",
+    "deviceType": "DVRVirtualRecorder",
+    "serviceAccountUri": "d59007dd-3589-4908-948a-dc2830b2a738",
+    "status": "Active",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "0d065458-baaf-4cd0-aa5f-894f81645a04",
+    "serialNumber": "a36f8fe8-e357-46ce-bf1e-548dfaa9b202",
+    "deviceType": "IPCOAM",
+    "serviceAccountUri": "12f4fe09-3d29-4758-a335-e3ed755215e2",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "2c701b72-744f-4aac-8f8b-f2c54d8d60ef",
+    "serialNumber": "c777ee17-3516-4237-b131-b3e13b88e8a9",
+    "deviceType": "QAMIPSTB",
+    "serviceAccountUri": "0e7af82e-2984-4fce-bb0f-47e8fe05e7fa",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "7a928441-4b41-4b25-85d0-76f7cd0ffae6",
+    "serialNumber": "81678e4a-0bd3-423b-9a84-71b542fce496",
+    "deviceType": "VoIpTn",
+    "serviceAccountUri": "1b246f50-5a19-418e-9551-46f8900af004",
+    "status": "Active",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "6a12f92d-b251-4e15-a982-d713c7cb4a7e",
+    "serialNumber": "214dcb9c-e74a-4474-a048-16267e0d4bc3",
+    "deviceType": "IPSTB",
+    "serviceAccountUri": "2398c09e-43bf-487c-af37-f8196d4940e9",
+    "status": "Delete",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "75566a98-b5f9-4a06-9be5-7273159a7764",
+    "serialNumber": "d2062c63-c432-4e91-a4ad-ae0bcdc3c90f",
+    "deviceType": "IPCOAM",
+    "serviceAccountUri": "699de1a5-f648-4f1a-9342-3983c21b0f6a",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "cc7c69c0-6311-40a4-bd3b-a74beb3b6913",
+    "serialNumber": "2a30f1ca-f41c-45cb-99b2-a8c37e500506",
+    "deviceType": "IPGateway",
+    "serviceAccountUri": "8967ec51-071e-4ca0-98e4-853e547a45e3",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "537594ac-8edc-4458-b4c4-9a55ffd7c02e",
+    "serialNumber": "ac388c7c-ed8a-481d-871d-5dfe9251ab3d",
+    "deviceType": "DVRVirtualRecorder",
+    "serviceAccountUri": "c1fbf4f7-4482-4918-9635-953175f989c5",
+    "status": "Delete",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "2afb4ac1-26c1-4393-932e-2f20081bd5a7",
+    "serialNumber": "d41acd46-30cd-433c-a642-2ce683ee9dc1",
+    "deviceType": "VoIpTn",
+    "serviceAccountUri": "f92c072f-5089-4feb-9404-447c221e6db6",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "b6ebb1b2-89f6-46e0-8c95-6a0a505231e6",
+    "serialNumber": "9921b9d6-7227-40ea-a6dd-969f71a4acfc",
+    "deviceType": "IPSTB",
+    "serviceAccountUri": "48a7a802-bdc3-4a9a-8cb3-506004ef4d57",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "80089625-355f-4e9e-9d3e-59d4e0098ea1",
+    "serialNumber": "5bb9f0a8-7dbe-4c76-b0c7-6c75ae2ecfc8",
+    "deviceType": "DVRVirtualRecorder",
+    "serviceAccountUri": "eb5f7e82-049e-4eb2-8088-e5dd5fd3e7b0",
+    "status": "Delete",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "c74ffb22-c937-4783-937c-58f70d9035c9",
+    "serialNumber": "6fac8a62-5388-42ea-b760-9e60ff4f1c06",
+    "deviceType": "IPSTB",
+    "serviceAccountUri": "ed2b0008-d05d-4448-8b16-df43e18091a8",
+    "status": "Active",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "de24ba93-065e-4ec3-aeb5-c4d903a40aa8",
+    "serialNumber": "2e1ce6de-1893-4553-ac79-bfc4ae505484",
+    "deviceType": "IPSTB",
+    "serviceAccountUri": "852dbf55-8d20-4432-a35f-8f76b4f7bf7b",
+    "status": "Delete",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "a09deecd-72f1-4b68-acf3-b4182f9acbc1",
+    "serialNumber": "5cd31217-bd6a-4cab-86e0-7d2e4323c376",
+    "deviceType": "IPSTB",
+    "serviceAccountUri": "cddf9e6e-bde7-4322-958c-e582ff5d830e",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "bdce90f6-642a-4080-89c4-3254fd620dcb",
+    "serialNumber": "b63c97de-7d75-4073-9a50-2022350f627a",
+    "deviceType": "QAMIPSTB",
+    "serviceAccountUri": "0ab9543b-92cd-4d35-8e92-eb1f0007f5eb",
+    "status": "Delete",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "ac074a4f-d444-4114-a3be-1d1b6f3a96f8",
+    "serialNumber": "e0b232b5-1c08-4468-8fa7-f4111133fea5",
+    "deviceType": "DVRVirtualRecorder",
+    "serviceAccountUri": "9b58b7b4-032b-46e9-b0f6-503baf6793c7",
+    "status": "Active",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "a45af6d0-81cc-4e22-9677-861b395e10bd",
+    "serialNumber": "f021d36d-4a10-48ef-940c-9499edc99580",
+    "deviceType": "IPGateway",
+    "serviceAccountUri": "9b46faf9-144f-435e-b52e-2c65349061fb",
+    "status": "Delete",
+    "hasDvr": false
+  },
+  {
+    "sourceId": "1a722060-9c48-4bfb-b29f-ad8cdad3cd7a",
+    "serialNumber": "8cbefed6-8000-431a-a739-9fd1a1777c3a",
+    "deviceType": "IPGateway",
+    "serviceAccountUri": "8c3bfcef-7cf4-4532-a675-b84c98349ef4",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "4d45b68e-4029-4db6-b190-70e826f2e650",
+    "serialNumber": "93e2109f-a557-419b-bac8-1a994e6b089f",
+    "deviceType": "DVRVirtualRecorder",
+    "serviceAccountUri": "4495b2e1-c80b-4b9e-8858-3b8ede50869a",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "68bd3794-816f-4cd8-aae1-469a629cff41",
+    "serialNumber": "1543182b-0cd0-4687-9b74-a37ceb3f72e0",
+    "deviceType": "DVRVirtualRecorder",
+    "serviceAccountUri": "55059deb-50bf-414c-9bef-3877455692ab",
+    "status": "Active",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "17beb22f-7628-4b1c-a9e0-3bba57330364",
+    "serialNumber": "555a2bae-7d5c-416f-97e3-5409be8ce7f7",
+    "deviceType": "VoIpTn",
+    "serviceAccountUri": "5ce2b068-7c30-4a03-a403-419eae2692b6",
+    "status": "Delete",
+    "hasDvr": true
+  },
+  {
+    "sourceId": "1a5d73f5-b671-43ae-bebc-f7723fc66343",
+    "serialNumber": "81fe89ac-5b19-47f6-bf19-3619f5d2b141",
+    "deviceType": "VoIpTn",
+    "serviceAccountUri": "81441ac0-7e34-4852-9a6d-732a3f4b02e5",
+    "status": "Active",
+    "hasDvr": false
+  }
+]

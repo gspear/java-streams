@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "firstName": "Dixie",
+    "lastName": "O'Finan",
+    "email": "dofinan0@huffingtonpost.com",
+    "gender": "Female",
+    "age": 91
+  },
+  {
+    "id": 4,
+    "firstName": "Carlyle",
+    "lastName": "Lachaize",
+    "email": "clachaize3@youtu.be",
+    "gender": "Male",
+    "age": 3
+  },
+  {
+    "id": 5,
+    "firstName": "Eula",
+    "lastName": "Pimm",
+    "email": "epimm4@google.com.hk",
+    "gender": "Female",
+    "age": 54
+  },
+  {
+    "id": 6,
+    "firstName": "Andrus",
+    "lastName": "Endricci",
+    "email": "aendricci5@google.ru",
+    "gender": "Male",
+    "age": 19
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "regions": [
+    {
+      "id": "000-residential",
+      "visibilities": [
+        "STB",
+        "OOH-android",
+        "OOH-ios",
+        "OOH-web",
+        "GEO-nbc",
+        "Mobile",
+        "OOH",
+        "GEO-abc"
+      ]
+    },
+    {
+      "id": "436-residential",
+      "visibilities": [
+        "STB",
+        "OOH-android",
+        "OOH-ios",
+        "OOH-web",
+        "GEO-nbc",
+        "Mobile",
+        "OOH",
+        "GEO-abc"
+      ]
+    },
+    {
+      "id": "000-residential-Adult",
+      "visibilities": [
+        "STB",
+        "OOH-android",
+        "OOH-ios",
+        "OOH-web",
+        "GEO-nbc",
+        "Mobile",
+        "OOH",
+        "GEO-abc"
+      ]
+    },
+    {
+      "id": "436-residential-Adult",
+      "visibilities": [
+        "STB",
+        "OOH-android",
+        "OOH-ios",
+        "OOH-web",
+        "GEO-nbc",
+        "Mobile",
+        "OOH",
+        "GEO-abc"
+      ]
+    },
+    {
+      "id": "cox:PHXN:PHXN_ALL"
+    },
+    {
+      "id": "cox:PHXN:PHXN_3450-21"
+    },
+    {
+      "id": "National"
+    },
+    {
+      "id": "cox:PHXN:PHXN_3450-21-729"
+    }
+  ]
+}
