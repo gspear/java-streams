@@ -1,0 +1,112 @@
+{
+  "saveSubscriberTrait": {
+    "subscriberTrait": {
+      "description": "Storefront",
+      "title": "trait-1-2",
+      "traitScope": "Account",
+      "type": "Entitlement",
+      "configuration": {
+        "mediaAccounts": [
+          "TVE",
+          "TITLEVI"
+        ],
+        "managedEntitlements": [
+          {
+            "entitlementId": "comcast:merlin:Offer:Entitlement:8792625658381616182",
+            "availableDate": 1459468800000,
+            "expirationDate": 1464739199000,
+            "localTime": true
+          },
+          {
+            "entitlementId": "comcast:merlin:Offer:Entitlement:4994496033853981182",
+            "availableDate": 1438387200000,
+            "expirationDate": 1441065599000,
+            "localTime": true
+          }
+        ],
+        "managedAvailabilities": [
+          {
+            "scope": "vod",
+            "productContext": "comcast:merlin:Offer:ProductContext:6404181994850509174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:8290966522516519143",
+            "localTime": true,
+            "availableDate": 1459468800000,
+            "expirationDate": 1464739199000
+          },
+          {
+            "scope": "offer",
+            "productContext": "comcast:merlin:Offer:ProductContext:6404181994850509174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:8290966522516519143",
+            "localTime": true,
+            "availableDate": 1459468800000,
+            "expirationDate": 1464739199000
+          },
+          {
+            "scope": "vod",
+            "productContext": "comcast:merlin:Offer:ProductContext:8907477385995984174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:8290966522516519143",
+            "localTime": true,
+            "availableDate": 1459468800000,
+            "expirationDate": 1464739199000
+          },
+          {
+            "scope": "offer",
+            "productContext": "comcast:merlin:Offer:ProductContext:8907477385995984174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:8290966522516519143",
+            "localTime": true,
+            "availableDate": 1459468800000,
+            "expirationDate": 1464739199000
+          },
+          {
+            "scope": "vod",
+            "productContext": "comcast:merlin:Offer:ProductContext:6501822107178986174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:8290966522516519143",
+            "localTime": true,
+            "availableDate": 1459468800000,
+            "expirationDate": 1464739199000
+          },
+          {
+            "scope": "offer",
+            "productContext": "comcast:merlin:Offer:ProductContext:6501822107178986174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:8290966522516519143",
+            "localTime": true,
+            "availableDate": 1459468800000,
+            "expirationDate": 1464739199000
+          },
+          {
+            "scope": "vod",
+            "productContext": "comcast:merlin:Offer:ProductContext:6404181994850509174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:5734052320355149143",
+            "localTime": true,
+            "availableDate": 1438387200000,
+            "expirationDate": 1441065599000
+          },
+          {
+            "scope": "offer",
+            "productContext": "comcast:merlin:Offer:ProductContext:6404181994850509174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:5734052320355149143",
+            "localTime": true,
+            "availableDate": 1438387200000,
+            "expirationDate": 1441065599000
+          },
+          {
+            "scope": "vod",
+            "productContext": "comcast:merlin:Offer:ProductContext:6501822107178986174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:5734052320355149143",
+            "localTime": true,
+            "availableDate": 1438387200000,
+            "expirationDate": 1441065599000
+          },
+          {
+            "scope": "offer",
+            "productContext": "comcast:merlin:Offer:ProductContext:6501822107178986174",
+            "availabilityId": "comcast:merlin:Offer:AvailabilityTag:5734052320355149143",
+            "localTime": true,
+            "availableDate": 1438387200000,
+            "expirationDate": 1441065599000
+          }
+        ]
+      }
+    }
+  }
+}

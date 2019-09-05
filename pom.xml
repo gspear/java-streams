@@ -73,31 +73,12 @@
             <scope>test</scope>
         </dependency>
 
-        <!--<dependency>-->
-            <!--<groupId>com.cisco.services.rpil.core.starters</groupId>-->
-            <!--<artifactId>rpil-services-starter</artifactId>-->
-            <!--<version>1.81.13</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>com.cisco.services.rpil.core.libs</groupId>-->
-            <!--<artifactId>rpil-services-core-build</artifactId>-->
-            <!--<version>1.83.4-SNAPSHOT</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>com.cisco.services.rpil.core.libs</groupId>-->
-            <!--<artifactId>rpil-services-common</artifactId>-->
-            <!--<version>1.83.4-SNAPSHOT</version>-->
-        <!--</dependency>-->
+
         <dependency>
             <groupId>com.cisco.vcsf</groupId>
             <artifactId>foundation-common</artifactId>
             <version>4.0.4</version>
-            <!--<exclusions>-->
-                <!--<exclusion>-->
-                    <!--<artifactId>spring-context-support</artifactId>-->
-                    <!--<groupId>org.springframework</groupId>-->
-                <!--</exclusion>-->
-            <!--</exclusions>-->
+
         </dependency>
         <dependency>
             <groupId>com.cisco.services.rpil.core.libs</groupId>

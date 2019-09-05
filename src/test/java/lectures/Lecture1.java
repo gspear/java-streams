@@ -7,8 +7,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import beans.Person;
 
-import com.google.common.collect.ImmutableList;
-
 import java.io.IOException;
 import java.util.*;
 import java.util.AbstractMap.SimpleEntry;
@@ -28,7 +26,7 @@ import org.junit.Test;
 
 public class Lecture1 {
 
-    public static final Predicate<Person> NOT_GMAILERS = p -> !p.getEmail().endsWith("gmail.com");
+    public static final Predicate<Person> GMAILERS = p -> !p.getEmail().endsWith("gmail.com");
     static Predicate<Person> minor = person -> person.getAge() <= 18;
     static Predicate<Person> male = person -> person.getGender().equalsIgnoreCase("MALE");
 
@@ -62,6 +60,17 @@ public class Lecture1 {
     @Test
     public void declarativeApproachUsingStreams() throws Exception {
 
+        Predicate<Person> baccha = person -> person.getAge() <=18;
+        Predicate<Person> mard = person -> person.getGender().equalsIgnoreCase("Male");
+
+        List<Person> bachhiya = MockData.getPeople()
+            .stream()
+            .filter(baccha.and(mard.negate()))
+            .collect(toList());
+
+        bachhiya.stream()
+            .forEach(System.out::println);
+
         MockData.getPeople()
                 .stream()
                 .filter(minor.and(male))
@@ -79,6 +88,15 @@ public class Lecture1 {
                 .mapToInt(p -> p.getAge())
                 .max().getAsInt();
 
+        System.out.println("max = " + max);
+
+        max = MockData.getPeople()
+            .stream()
+            .map(p -> p.getAge())
+            .max((n1,n2)->Integer.compare(n1,n2))
+            .get();
+        System.out.println("maxNew"
+            + " = " + max);
         double avg = MockData.getPeople()
                 .stream()
                 .mapToInt(p -> p.getAge())
@@ -106,6 +124,13 @@ public class Lecture1 {
                 .mapToInt(p -> p.getAge())
                 .sum();
         System.out.println("age = " + age);
+
+        long lage = MockData.getPeople()
+            .stream()
+            .map(p -> p.getAge())
+            .reduce(0, (n1,n2)->n1+n2)
+            .longValue();
+        System.out.println("age = " + lage);
     }
 
     @Test
@@ -120,7 +145,7 @@ public class Lecture1 {
     public void filterNonGmailers() throws Exception {
         MockData.getPeople()
                 .stream()
-                .filter(NOT_GMAILERS)
+                .filter(GMAILERS.negate())
                 .limit(10)
                 .map(p -> p.getEmail())
                 .forEach(System.out::println);
